@@ -7,7 +7,7 @@
 ---
 </> Software tech
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongodb Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySql Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongodb Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySql Logo" width="50" height="50"/>
 
 📡 Deployment tech
 
