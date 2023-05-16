@@ -11,7 +11,7 @@
 
 🎨 Design tech
 
-<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="Illustrator Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Vercel Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma Logo" width="80" height="80"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="Illustrator Logo" width="60" height="60"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Vercel Logo" width="60" height="60"/>
 
 📡 Deployment tech
 
