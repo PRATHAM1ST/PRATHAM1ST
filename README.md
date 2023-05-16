@@ -15,7 +15,7 @@
 
 📡 Deployment tech
 
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/768px-Vercel_logo_black.svg.png?20221002000905" alt="Vercel Logo" width="150" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="Netlify Logo" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/768px-Vercel_logo_black.svg.png?20221002000905" alt="Vercel Logo" width="190" height="50"/>
 
 
 🦾 Hardware tech
