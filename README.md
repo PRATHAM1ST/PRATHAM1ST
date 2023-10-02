@@ -24,6 +24,7 @@
 
 ---
 
+[![An image of @pratham1st's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratham1st)](https://holopin.io/@pratham1st)
 
 <!---
 PRATHAM1ST/PRATHAM1ST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
