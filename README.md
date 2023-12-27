@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on any Startup or Internships
 - 📫 You can reach me through https://pratham-chudasama.co
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRATHAM1ST&label=Profile%20views&color=0e75b6&style=flat" alt="PRATHAM1ST" /> </p>
+
 ---
 </> Software tech
 
