@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack (Major in Frontend) Development
 - 🌱 I’m currently learning BACKEND
 - 💞️ I’m looking to collaborate on any Startup or Internships
-- 📫 You can reach me through https://pratham-chudasama.co
+- 📫 You can reach me through https://pratham-chudasama.vercel.app
 
 ---
 </> Software tech
